@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: irrelevantComments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-22 20:07+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: loeffler <loeffler@kosmonauten.cc>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: irrelevantcomments.php:91
+msgid "Requires Wordpress 2.9 or higher!"
+msgstr "Requires Wordpress 2.9 or higher!"
+
+#: irrelevantcomments.php:119
+#, php-format
+msgid "Upgraded successfully to irrelevantComments %s!"
+msgstr "Upgraded successfully to irrelevantComments %s!"
+
+#: irrelevantcomments.php:159
+msgid "Mark comment as irrelevant"
+msgstr "Mark comment as irrelevant"
+
+#: irrelevantcomments.php:179
+#: irrelevantcomments.php:269
+msgid "Irrelevant comment"
+msgstr "Irrelevant comment"
+
+#: irrelevantcomments.php:179
+#: irrelevantcomments.php:207
+msgid "show"
+msgstr "show"
+
+#: irrelevantcomments.php:193
+#: irrelevantcomments.php:269
+#: irrelevantcomments.php:271
+msgid "mark as relevant"
+msgstr "mark as relevant"
+
+#: irrelevantcomments.php:193
+#: irrelevantcomments.php:275
+msgid "mark as irrelevant"
+msgstr "mark as irrelevant"
+
+#: irrelevantcomments.php:207
+msgid "hide"
+msgstr "hide"
+
+#: irrelevantcomments.php:239
+msgid "Error: Could not find comment."
+msgstr "Error: Could not find comment."
+
+#: irrelevantcomments.php:243
+#, php-format
+msgid "Comment #%s was marked as relevant."
+msgstr "Comment #%s was marked as relevant."
+
+#: irrelevantcomments.php:247
+#, php-format
+msgid "Comment #%s was marked as irrelevant."
+msgstr "Comment #%s was marked as irrelevant."
+
+#: irrelevantcomments.php:285
+msgid "irrelevant Comments"
+msgstr "irrelevant Comments"
+
+#: irrelevantcomments.php:295
+msgid "Allow to mark comments as irrelevant"
+msgstr "Allow to mark comments as irrelevant"
+
